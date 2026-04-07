@@ -13,3 +13,6 @@
 - PSA10取得率のデフォルトは80%
 - 販売手数料のデフォルトは10%
 - 諸費用のデフォルトは240円
+
+##　プライバシーポリシー
+- https://tkg1005.github.io/PSAPlanOptimizer_legal/
