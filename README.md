@@ -16,3 +16,10 @@
 
 ##　プライバシーポリシー
 - https://tkg1005.github.io/PSAPlanOptimizer_legal/privacy/
+
+## 開発者
+Developer / 開発者: Koichi Takagi
+For questions about this policy, please contact:
+
+Email: marumaru.12969@gmail.com
+GitHub: https://tkg1005.github.io/
