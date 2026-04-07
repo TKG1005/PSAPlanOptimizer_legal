@@ -97,4 +97,4 @@ Any important updates will be reflected on this page with the revised date.
 Developer / 開発者: **Koichi Takagi**  
 For questions about this policy, please contact:  
 - Email: `marumaru.12969@gmail.com`
-- GitHub: `https://github.com/TKG1005`
+- GitHub: `https://tkg1005.github.io/`
