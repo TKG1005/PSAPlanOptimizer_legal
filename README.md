@@ -14,7 +14,7 @@
 - 販売手数料のデフォルトは10%
 - 諸費用のデフォルトは240円
 
-##　プライバシーポリシー
+## プライバシーポリシー
 - https://tkg1005.github.io/PSAPlanOptimizer_legal/privacy/
 
 ## 開発者
