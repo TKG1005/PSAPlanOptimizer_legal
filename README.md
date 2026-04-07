@@ -15,4 +15,4 @@
 - 諸費用のデフォルトは240円
 
 ##　プライバシーポリシー
-- https://tkg1005.github.io/PSAPlanOptimizer_legal/
+- https://tkg1005.github.io/PSAPlanOptimizer_legal/privacy/
